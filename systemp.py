@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 import subprocess
 import time
@@ -115,7 +117,7 @@ def main():
         color_code_mem = "\033[94m"
         color_code_disk = "\033[95m"
         color_code_net = "\033[97m"
-        color_code_systemp = "\033[91;1m"  # Bright red
+        color_code_systempi = "\033[91;1m"  # Bright red
         color_code_load_avg = "\033[0m"  # Default color
         color_code_numbers = "\033[91m"  # Red color for numbers
 
@@ -127,11 +129,11 @@ def main():
         os.system("clear")
 
         # ASCII Box
-        box_top = f"{color_code_systemp}{'='*30}\033[0m"
-        box_bottom = f"{color_code_systemp}{'='*30}\033[0m"
+        box_top = f"{color_code_systempi}{'='*30}\033[0m"
+        box_bottom = f"{color_code_systempi}{'='*30}\033[0m"
 
         print(box_top)
-        print(f"{color_code_systemp}    SYSTEMP - TheJuicePapi\033[0m")
+        print(f"{color_code_systempi}    SYSTEMPI - TheJuicePapi\033[0m")
         print(box_top)
 
         # Color code for CPU load
@@ -141,16 +143,16 @@ def main():
         print(f"  CPU temp = {color_code_temp}{temperature}\033[0m °C")
         print(f"  MEM usage = {color_code_mem}{mem_percent}%\033[0m")
         print(f"  Disk usage = {color_code_disk}{disk_usage}%\033[0m")
-        print(f"  Disk Read = {color_code_disk}{disk_read_per_sec:.2f} KiB/s\033[0m")
-        print(f"  Disk Write = {color_code_disk}{disk_write_per_sec:.2f} KiB/s\033[0m")
+        print(f"  Disk read = {color_code_disk}{disk_read_per_sec:.2f} KiB/s\033[0m")
+        print(f"  Disk write = {color_code_disk}{disk_write_per_sec:.2f} KiB/s\033[0m")
         print(f"  ARM freq = {color_code_freq}{frequency}\033[0m Hz")
         print(f"  Uptime = {hours}h {minutes}m {seconds}s")
         
         # Modified line for load average
-        load_avg_str = f"  Load Average:\n    1m: {color_code_numbers}{round(system_load_avg[0], 2)}\033[0m\n    5m: {color_code_numbers}{round(system_load_avg[1], 2)}\033[0m\n    15m: {color_code_numbers}{round(system_load_avg[2], 2)}\033[0m"
+        load_avg_str = f"  Load average:\n    1m = {color_code_numbers}{round(system_load_avg[0], 2)}\033[0m\n    5m = {color_code_numbers}{round(system_load_avg[1], 2)}\033[0m\n    15m = {color_code_numbers}{round(system_load_avg[2], 2)}\033[0m"
         print(f"{color_code_load_avg}{load_avg_str}")
         
-        print(f"  Swap Usage = {color_code_disk}{swap_percent}%\033[0m")
+        print(f"  Swap usage = {color_code_disk}{swap_percent}%\033[0m")
         print(f"  Network:")
         print(f"    Sent = {color_code_net}{network_sent_per_sec:.2f} KiB/s\033[0m")
         print(f"    Received = {color_code_net}{network_recv_per_sec:.2f} KiB/s\033[0m")
