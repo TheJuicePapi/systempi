@@ -1,12 +1,10 @@
 # systempi
 systempi is a python script for monitoring the system info such as network trafic KiB, CPU usage and temperature, memory usage, and more.
---------------------------------------------------------------------------------------------------------------------------------
-Launching the script:
-![Screenshot_2023-12-12_01-35-05](https://github.com/TheJuicePapi/systemp/assets/134894632/3dcfc0b5-bcb9-436a-8a84-d967bc91a428)
---------------------------------------------------------------------------------------------------------------------------------
-![Screenshot_2023-12-14_22-07-36](https://github.com/TheJuicePapi/systemp/assets/134894632/f4d0993e-d59f-4bce-a969-af16a1b56999)
-![Screenshot_2023-12-14_22-07-52](https://github.com/TheJuicePapi/systemp/assets/134894632/0d42261f-bfe4-47f5-a7ac-a1979f2d0c09)
-![Screenshot_2023-12-14_22-08-04](https://github.com/TheJuicePapi/systemp/assets/134894632/17d8d044-f2c3-473d-92ca-4b8ffa003923)
+-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+![Screenshot_2023-12-15_02-17-13](https://github.com/TheJuicePapi/systempi/assets/134894632/088ec5a0-fac4-4897-b5ee-35e6c2f11f82)
+![Screenshot_2023-12-15_02-18-16](https://github.com/TheJuicePapi/systempi/assets/134894632/4817c5a3-28a3-400e-9537-0883b1a82ae0)
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 COMPATIBILITY:
