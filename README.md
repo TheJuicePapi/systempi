@@ -4,10 +4,12 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot_2023-12-15_02-17-13](https://github.com/TheJuicePapi/systempi/assets/134894632/088ec5a0-fac4-4897-b5ee-35e6c2f11f82)
-![Screenshot_2023-12-15_02-18-16](https://github.com/TheJuicePapi/systempi/assets/134894632/4817c5a3-28a3-400e-9537-0883b1a82ae0)
+![Screenshot_2023-12-15_16-13-59](https://github.com/TheJuicePapi/systempi/assets/134894632/b3a3917b-bf2e-43e7-bca4-8535f1edbac8)
+![Screenshot_2023-12-15_16-14-22](https://github.com/TheJuicePapi/systempi/assets/134894632/c28f8b77-ea39-4201-871b-085ce1793053)
+![Screenshot_2023-12-15_16-14-53](https://github.com/TheJuicePapi/systempi/assets/134894632/20f17a25-3039-409c-9a55-38b25644e3ee)
 
 
+------------------------------
 
 
 DEPENDANCIES
