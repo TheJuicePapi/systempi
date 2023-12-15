@@ -4,9 +4,10 @@ systemp is a python script for monitoring the system info such as network trafic
 Launching the script:
 ![Screenshot_2023-12-12_01-35-05](https://github.com/TheJuicePapi/systemp/assets/134894632/3dcfc0b5-bcb9-436a-8a84-d967bc91a428)
 --------------------------------------------------------------------------------------------------------------------------------
-![Screenshot_2023-12-13_19-31-12](https://github.com/TheJuicePapi/systemp/assets/134894632/2be03264-dcd3-4c24-993f-d5cf006fd7f1)
-![Screenshot_2023-12-13_19-31-22](https://github.com/TheJuicePapi/systemp/assets/134894632/97f2bc68-6124-48fb-a53a-a7d31c26e910)
-![Screenshot_2023-12-13_19-31-52](https://github.com/TheJuicePapi/systemp/assets/134894632/d27e8973-e5ed-4700-a29d-88bf22a29967)
+![Screenshot_2023-12-14_22-07-36](https://github.com/TheJuicePapi/systemp/assets/134894632/f4d0993e-d59f-4bce-a969-af16a1b56999)
+![Screenshot_2023-12-14_22-07-52](https://github.com/TheJuicePapi/systemp/assets/134894632/0d42261f-bfe4-47f5-a7ac-a1979f2d0c09)
+![Screenshot_2023-12-14_22-08-04](https://github.com/TheJuicePapi/systemp/assets/134894632/17d8d044-f2c3-473d-92ca-4b8ffa003923)
+
 --------------------------------------------------------------------------------------------------------------------------------
 COMPATIBILITY:
 --------------------------------------------------------------------------------------------------------------------------------
