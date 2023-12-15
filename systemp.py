@@ -116,6 +116,8 @@ def main():
         color_code_disk = "\033[95m"
         color_code_net = "\033[97m"
         color_code_systemp = "\033[91;1m"  # Bright red
+        color_code_load_avg = "\033[0m"  # Default color
+        color_code_numbers = "\033[91m"  # Red color for numbers
 
         uptime = time.time() - boot_time
         hours = int(uptime // 3600)
@@ -144,10 +146,11 @@ def main():
         print(f"  ARM freq = {color_code_freq}{frequency}\033[0m Hz")
         print(f"  Uptime = {hours}h {minutes}m {seconds}s")
         
-        load_avg_str = ', '.join(f"{color_code_systemp}{round(load_avg, 2)}\033[0m" for load_avg in system_load_avg)
-        print(f"  Load Avg: {load_avg_str}")
+        # Modified line for load average
+        load_avg_str = f"  Load Average:\n    1m: {color_code_numbers}{round(system_load_avg[0], 2)}\033[0m\n    5m: {color_code_numbers}{round(system_load_avg[1], 2)}\033[0m\n    15m: {color_code_numbers}{round(system_load_avg[2], 2)}\033[0m"
+        print(f"{color_code_load_avg}{load_avg_str}")
         
-        print(f"  Swap Usage: {color_code_disk}{swap_percent}%\033[0m")
+        print(f"  Swap Usage = {color_code_disk}{swap_percent}%\033[0m")
         print(f"  Network:")
         print(f"    Sent = {color_code_net}{network_sent_per_sec:.2f} KiB/s\033[0m")
         print(f"    Received = {color_code_net}{network_recv_per_sec:.2f} KiB/s\033[0m")
