@@ -47,7 +47,7 @@ INSTALLATION & USAGE
 
 Git clone installation:
 
-1. 'git clone https://github.com/TheJuicePapi/updateme.git'
+1. 'sudo git clone https://github.com/TheJuicePapi/updateme.git'
 2. 'cd updateme'
 3. 'chmod +x install.sh'
 4. 'sudo ./install.sh'
