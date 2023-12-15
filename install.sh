@@ -16,4 +16,6 @@ pip3 install psutil
 # Create symbolic link for systempi.py
 ln -s "$(pwd)/systempi.py" /usr/local/bin/systempi
 
+clear
+
 echo "Installation complete and shortcut created! You can now run systempi.py from any directory by simply typing 'systempi'."
