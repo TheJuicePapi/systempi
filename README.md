@@ -3,10 +3,10 @@
 # systemPI - by TheJuicePapi
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+![Screenshot_2023-12-15_16-13-59](https://github.com/TheJuicePapi/systempi/assets/134894632/29b66419-4856-4a18-b057-007d0f94a5a0)
+![Screenshot_2023-12-15_16-14-22](https://github.com/TheJuicePapi/systempi/assets/134894632/014276be-1178-4102-9533-600d1b1e11d9)
+![Screenshot_2023-12-15_16-14-53](https://github.com/TheJuicePapi/systempi/assets/134894632/f989887d-dbf3-4846-a375-28ff1fd5b0de)
 
-![Screenshot_2023-12-15_16-13-59](https://github.com/TheJuicePapi/systempi/assets/134894632/b3a3917b-bf2e-43e7-bca4-8535f1edbac8)
-![Screenshot_2023-12-15_16-14-22](https://github.com/TheJuicePapi/systempi/assets/134894632/c28f8b77-ea39-4201-871b-085ce1793053)
-![Screenshot_2023-12-15_16-14-53](https://github.com/TheJuicePapi/systempi/assets/134894632/20f17a25-3039-409c-9a55-38b25644e3ee)
 
 
 ------------------------------
