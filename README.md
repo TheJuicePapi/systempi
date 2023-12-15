@@ -1,5 +1,5 @@
-# systemp
-systemp is a python script for monitoring the system info such as network trafic KiB, CPU usage and temperature, memory usage, and more.
+# systempi
+systempi is a python script for monitoring the system info such as network trafic KiB, CPU usage and temperature, memory usage, and more.
 --------------------------------------------------------------------------------------------------------------------------------
 Launching the script:
 ![Screenshot_2023-12-12_01-35-05](https://github.com/TheJuicePapi/systemp/assets/134894632/3dcfc0b5-bcb9-436a-8a84-d967bc91a428)
