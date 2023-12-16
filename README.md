@@ -51,7 +51,7 @@ Git clone installation:
 2. 'cd updateme'
 3. 'sudo chmod +x install.sh systempi.py'
 4. 'sudo ./install.sh'
-5. run the script with 'sudo systempi'
+5. Now once you open a new terminal window you will be able to run the script with 'systempi'
 
  
 -------------------------------
