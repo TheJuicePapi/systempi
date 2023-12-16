@@ -47,8 +47,8 @@ INSTALLATION & USAGE
 
 Git clone installation:
 
-1. 'git clone https://github.com/TheJuicePapi/updateme.git'
-2. 'cd updateme'
+1. 'git clone https://github.com/TheJuicePapi/systempi.git'
+2. 'cd systempi'
 3. 'sudo chmod +x install.sh systempi.py'
 4. 'sudo ./install.sh'
 5. Exit and open a new terminal to use 'systempi' shortcut
