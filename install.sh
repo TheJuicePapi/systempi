@@ -18,4 +18,4 @@ ln -s "$(pwd)/systempi.py" /usr/local/bin/systempi
 
 clear
 
-echo "Installation complete and shortcut created! You can now run systempi.py from any directory by simply typing 'systempi'."
+echo "Installation complete and shortcut created! Launch a new terminal and you'll be able to run 'systempi' from any directory!"
